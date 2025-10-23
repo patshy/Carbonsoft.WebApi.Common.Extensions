@@ -1,4 +1,4 @@
-﻿namespace Carbonsoft.Common.Extensions;
+﻿namespace Carbonsoft.Common.WebApi.Extensions;
 
 public static class EnumerableExtensions
 {
